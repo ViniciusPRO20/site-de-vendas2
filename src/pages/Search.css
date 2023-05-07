@@ -1,0 +1,24 @@
+.products {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    border: none;
+    margin-top: 120px;
+}
+ 
+.titulo {
+    padding-left: 30px;
+    text-align: center;
+}
+
+.products li {
+    background-color: rgb(246, 246, 246);
+    border-radius: 15px;
+    padding: 10px;
+    text-align: center;
+    list-style: none;
+    margin: 0 10px;
+    width: 25%;
+    margin-bottom: 20px;
+    border: none;
+}

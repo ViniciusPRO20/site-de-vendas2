@@ -1,0 +1,52 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "Camisa",
+        "price": 59.9,
+        "imagem": "images/camisa.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Calça",
+        "price": 90,
+        "imagem": "images/calca.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Casaco",
+        "price": 60,
+        "imagem": "images/casaco.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Tenis Nike",
+        "price": 820,
+        "imagem": "images/nike.jpg"
+      },
+      {
+        "id": 5,
+        "name": "Camisa",
+        "price": 50,
+        "imagem": "images/camisa.jpg"
+      },
+      {
+        "id": 6,
+        "name": "Calça",
+        "price": "100",
+        "imagem": "images/calca.jpg"
+      },
+      {
+        "id": 7,
+        "name": "Casaco",
+        "price": 80,
+        "imagem": "images/casaco.jpg"
+      },
+      {
+        "id": 8,
+        "name": "Tenis Nike",
+        "price": 420,
+        "imagem": "images/nike.jpg"
+      }
+    ]
+  }
