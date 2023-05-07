@@ -1,6 +1,6 @@
 <h1>Sobre o Projeto:</h1>
-<p>esse projeto é  simulação de uma loja online, onde você pode observar e compar os produtos. Mas a parte de compra ainda não está concluída.</p>
-<p>this project is a simulation of an online store, where you can observe and compare products. But the buying part is not finished yet.</p>
+<p>esse projeto é  simulação de uma loja online, onde você pode observar e comprar os produtos. Mas a parte de compra ainda não está concluída.</p>
+<p>this project is a simulation of an online store, where you can observe and buy products. But the buying part is not finished yet.</p>
 <h1>Funcionalidades:</h1>
 <p>neste projeto apresenta um menu lateral onde você pode trocar o tema da pagina, pesquisar o item da loja que você deseja e ainda navegar nas funções do site.</p>
 <p>this project features a side menu where you can change the theme of the page, search for the item you want and even browse the site's functions.</p>
