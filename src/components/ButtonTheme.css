@@ -3,8 +3,8 @@
 }
 
 :root {
-    --color-dark: #21213f;
-    --color-light: #ffffc1;
+    --color-dark: rgb(38, 45, 59);
+    --color-light: #cfd0e3;
 }
 
 body {

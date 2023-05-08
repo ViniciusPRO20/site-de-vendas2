@@ -3,6 +3,7 @@
     justify-content: center;
     flex-wrap: wrap;
     border: none;
+    margin-bottom: 40px;
 }
  
 .title {
