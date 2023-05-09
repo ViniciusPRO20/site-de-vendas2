@@ -18,7 +18,7 @@ const ButtonTheme = () => {
 
   return (
     <div>
-        <h3>Tema:</h3>
+        <h3 className="theme">Tema:</h3>
         <label>
             <input className="button" type="checkbox" onClick={handleToggled} />
         <span className="switch">

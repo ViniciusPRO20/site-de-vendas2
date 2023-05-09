@@ -7,6 +7,10 @@
     --color-light: #cfd0e3;
 }
 
+.theme {
+    color: #000;
+}
+
 body {
     background: var(--color-light);
     transition: 0.3s;
