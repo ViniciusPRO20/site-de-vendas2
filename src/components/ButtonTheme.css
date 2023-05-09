@@ -10,10 +10,12 @@
 body {
     background: var(--color-light);
     transition: 0.3s;
+    color: #000;
 }
 
 body.dark {
     background: var(--color-dark);
+    color: #fff
 }
 
 .button {
