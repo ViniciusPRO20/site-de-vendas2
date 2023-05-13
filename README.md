@@ -8,4 +8,4 @@
 <p>Para fazer este projeto foi usado React, mas para fazer algumas funções foram instaladas 3 bibliotecas, react-spring para fazer a animação do menu, react-router-dom para fazer as rotas da pagina e json-server para criar o db.json um servidor local para utilizar com os produtos da loja, criando uma espécie de api..</p>
 <p>To make this project React was used, but to make some functions 3 libraries were installed, react-spring to make the menu animation, react-router-dom to make the page routes and json-server to create the db.json a local server to use with the store's products, creating a kind of api.</p>
 <p><b>OBS: Projeto em desenvolvimento.</b></p>
-<img src="https://user-images.githubusercontent.com/115045547/236695366-a025d556-c697-4079-b8e0-595c0357b177.png"/>
+<img src="https://github.com/ViniciusPRO20/site-de-vendas2/assets/115045547/8471fb8e-06d3-4b60-b59d-949cd6340feb"/>
